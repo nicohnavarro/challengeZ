@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace challengeZ.Controllers
 {
     [ApiController]
-    [Route("api/ [controller]")]
+    [Route("api/[controller]")]
     public class ExampleController : ControllerBase
     {
 
